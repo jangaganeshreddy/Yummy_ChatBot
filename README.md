@@ -24,4 +24,4 @@ Yummy-chatbot-for-food-delivery is a chatbot integrated into the Pandeji Delicio
 
 
 ## ScreenShot
-[!Alt Text](https://github.com/jangaganeshreddy/Yummy_ChatBot/assets/79239843/101dd221-fb7a-4b68-b7fe-29dd4294364a)
+![Alt Text](https://github.com/jangaganeshreddy/Yummy_ChatBot/assets/79239843/101dd221-fb7a-4b68-b7fe-29dd4294364a)
